@@ -1,8 +1,3 @@
-
-
-
-
-
 ## This uses pyfim from http://www.borgelt.net/pyfim.html
 
 # and the dataset from https://www.kaggle.com/puneetbhaya/online-retail
